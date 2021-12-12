@@ -16604,7 +16604,7 @@ textarea.parsley-success:focus {
 }
 
 .img-bg {
-    background: url(../../img/media/Stars.png);
+    /* background: url(../../img/media/Stars.png); */
     background-position: right;
     background-size: auto;
     background-repeat: no-repeat;
@@ -16630,7 +16630,7 @@ textarea.parsley-success:focus {
 }
 
 .bg-background2 {
-    background: url(../../img/media/4046534.jpg);
+    /* background: url(../../img/media/4046534.jpg); */
     background-size: cover;
     background-position: center;
 }
@@ -71092,7 +71092,7 @@ body {
 }
 
 .error-bg {
-    background: url(../../img/pngs/bg.png);
+    /* background: url(../../img/pngs/bg.png); */
     background-position: center;
     background-size: cover;
 }
@@ -72806,7 +72806,7 @@ div.dtr-modal div.dtr-modal-content {
 .signpages .details {
     border-top-left-radius: 6px;
     border-bottom-left-radius: 6px;
-    background: url(../../img/pngs/bg.png);
+    /* background: url(../../img/pngs/bg.png); */
     position: relative;
     background-size: cover;
     background-position: center;
@@ -72815,7 +72815,7 @@ div.dtr-modal div.dtr-modal-content {
 .construction {
     border-top-left-radius: 6px;
     border-bottom-left-radius: 6px;
-    background: url(../../img/pngs/bg.png);
+    /* background: url(../../img/pngs/bg.png); */
     position: relative;
     background-size: cover;
     background-position: center;

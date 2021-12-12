@@ -14854,7 +14854,7 @@ textarea.parsley-success:focus {
 }
 
 .error-bg {
-    background: url(../../img/pngs/bg.png);
+    /* background: url(../../img/pngs/bg.png); */
     background-position: center;
     background-size: cover;
     min-height: calc(100vh - 165px);
@@ -14890,7 +14890,7 @@ textarea.parsley-success:focus {
 .signpages .details {
     border-top-left-radius: 6px;
     border-bottom-left-radius: 6px;
-    background: url(../../img/pngs/bg.png);
+    /* background: url(../../img/pngs/bg.png); */
     position: relative;
     background-size: cover;
     background-position: center;
@@ -14899,7 +14899,7 @@ textarea.parsley-success:focus {
 .construction {
     border-top-left-radius: 6px;
     border-bottom-left-radius: 6px;
-    background: url(../../img/pngs/bg.png);
+    /* background: url(../../img/pngs/bg.png); */
     position: relative;
     background-size: cover;
     background-position: center;
@@ -16190,7 +16190,7 @@ ul.inbox-pagination {
     -webkit-box-pack: end;
     justify-content: flex-end;
     overflow: hidden;
-    background: url(../../img/media/bg-img.jpg) no-repeat;
+    /* background: url(../../img/media/bg-img.jpg) no-repeat; */
     background-size: cover;
 }
 
@@ -16798,7 +16798,7 @@ ul.inbox-pagination {
 }
 
 .img-bg {
-    background: url(../../img/media/Stars.png);
+    /* background: url(../../img/media/Stars.png); */
     background-position: right;
     background-size: auto;
     background-repeat: no-repeat;
@@ -16824,7 +16824,7 @@ ul.inbox-pagination {
 }
 
 .bg-background2 {
-    background: url(../../img/media/4046534.jpg);
+    /* background: url(../../img/media/4046534.jpg); */
     background-size: cover;
     background-position: center;
 }

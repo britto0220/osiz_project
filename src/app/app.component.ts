@@ -15,7 +15,8 @@ function _window() : any {
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  
+  public today: number = Date.now();
+
   public active = 1
 
   chart:any= [];
