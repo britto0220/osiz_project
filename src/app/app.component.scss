@@ -1,0 +1,15 @@
+.page-header {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    margin: 1.5rem 0 1.5rem;
+    -ms-flex-wrap: wrap;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: 44px;
+    position: relative;
+    min-height: 50px;
+    margin: 1.8rem 0 1.5rem 0;
+    border-radius: 7px;
+}
